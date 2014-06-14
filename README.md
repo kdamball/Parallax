@@ -10,3 +10,5 @@ Different from most parallax effects due to its lack of JavaScript.
 ```
   I find you lack of JS comforting
 ```
+
+[Check it out here in action!](http://kdamball.github.io/Parallax/)
