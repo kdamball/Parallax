@@ -20,30 +20,24 @@ p{
   top: 50%;
   -webkit-transform: translateY(-50%);
   color: #fff;
-  opacity: 10 !important;
 }
 
 #first{
   background-image: url("http://i.imgur.com/oOnt3FX.jpg");
-  opacity: 0.8;
 }
 
 #second{
   background-image: url("http://i.imgur.com/VrHnCRC.jpg");
-  opacity: 0.8;
 }
 
 #third{
   background-image: url("http://i.imgur.com/KBGmcNq.jpg");
-  opacity: 0.8;
 }
 
 #fourth{
   background-image: url("http://imgur.com/yzbmy1f.jpg");
-  opacity: 0.8;
 }
 
 #fifth{
   background-image: url("http://i.imgur.com/MprcFDC.jpg");
-  opacity: 0.8;
 }
